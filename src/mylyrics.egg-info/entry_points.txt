@@ -1,0 +1,2 @@
+[console_scripts]
+mylyrics = mylyrics.__main__:main

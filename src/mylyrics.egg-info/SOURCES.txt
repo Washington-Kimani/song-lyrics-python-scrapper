@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+src/mylyrics.egg-info/PKG-INFO
+src/mylyrics.egg-info/SOURCES.txt
+src/mylyrics.egg-info/dependency_links.txt
+src/mylyrics.egg-info/entry_points.txt
+src/mylyrics.egg-info/requires.txt
+src/mylyrics.egg-info/top_level.txt
