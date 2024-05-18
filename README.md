@@ -1,5 +1,7 @@
 ## Web Scraping with Python
 
+![Demo Image](./demo.png)
+
 * In the repo, I created a cmd app for scraping lyrics from [A-Z lyrics](https://azlyrics.com).
 * The app uses BeautifulSoup and requests libraries to scrape the lyrics.
 * The user can input the song name and artist name to get the lyrics.
